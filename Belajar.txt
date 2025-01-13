@@ -1,2 +1,3 @@
 1. Belajar docker
 2. belajar git 
+3. mengikuti bootcamp online
